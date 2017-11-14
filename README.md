@@ -34,5 +34,4 @@ Codes used for my paper on my MSc results.
 - fig11.ipynb
 
 
-$/n$
 Appendix figures:
