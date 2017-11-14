@@ -5,17 +5,17 @@ Codes used for my paper on my MSc results.
 fig1.ipynb
 - In:
 	* /Users/laura/Documents/data/ephem_calval_june2015_sph.txt 
-		Obtained from: http://www.aviso.altimetry.fr/en/missions/future-missions/swot/orbit.html
-	-- /Users/laura/src/git/swotsimulator/swotoutput/FASTtest02/MEDtest_swotFAST_c01*.nc
-		Obtained from: simulations PhD —> Angel
+		* Obtained from: http://www.aviso.altimetry.fr/en/missions/future-missions/swot/orbit.html
+	* /Users/laura/src/git/swotsimulator/swotoutput/FASTtest02/MEDtest_swotFAST_c01*.nc
+		* Obtained from: simulations PhD —> Angel
 - Out: 
-	-- Figure 1
+	* Figure 1
 - State: To improve:
-	-- map scale on left plot
-  	-- show inset lines
-	-- show coordinates
-	-- show nadir on right plot
-	-- swath data from kml instead of simus of PhD
+	* map scale on left plot
+  	* show inset lines
+	* show coordinates
+	* show nadir on right plot
+	* swath data from kml instead of simus of PhD
 (figure 2 is a flowchart)
 fig3.ipynb
 fig4.ipynb
