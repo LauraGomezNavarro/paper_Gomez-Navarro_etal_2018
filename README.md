@@ -18,6 +18,15 @@ Codes used for my paper on my MSc results.
 		* swath data from kml instead of simus of PhD
 - (figure 2 is a flowchart)
 - fig3.ipynb
+	- In:
+		* /Users/laura/Documents/scripts/IMEDEA/data/WMOP/roms_WMOP_HINDCAST_simplified_avg_20090123.nc
+		* /Users/laura/Documents/scripts/IMEDEA/data/new_cutoffs/DEF/rb_1_ma and rb_2_ma
+			* Obtained from: 2017-11-06_new_vort_calcs_WMOP.py
+	- Out: 
+		* Figure 3
+	- State: To improve:
+		* north arrow
+
 - fig4.ipynb
 - fig(4).ipynb —>EKE of WMOP?
 - fig5a.ipynb
@@ -34,4 +43,14 @@ Codes used for my paper on my MSc results.
 - fig11.ipynb
 
 
+- 2017-11-06_new_vort_calcs_WMOP.py
+	- In:
+		* /
+			* Obtained from: 
+	- Out: 
+		* 
+	- State: To improve:
+		* 
+
 Appendix figures:
+
