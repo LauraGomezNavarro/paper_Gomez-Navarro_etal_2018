@@ -28,6 +28,13 @@ Codes used for my paper on my MSc results.
 		* north arrow
 
 - fig4.ipynb
+	- In:
+		* /Users/laura/Documents/scripts/IMEDEA/data/swot_MED_TRY_c02*.nc
+	- Out: 
+		* Figure 4
+	- State: To improve:
+		* North arrow
+
 - fig(4).ipynb —>EKE of WMOP?
 - fig5a.ipynb
 - fig5b.ipynb
