@@ -35,7 +35,7 @@ Codes used for my paper on my MSc results.
 	- State: To improve:
 		* North arrow
 
-- fig(4).ipynb —>EKE of WMOP?
+- fig5.ipynb 
 - fig5a.ipynb
 - fig5b.ipynb
 - fig6.ipynb
@@ -48,7 +48,20 @@ Codes used for my paper on my MSc results.
 - fig10a.ipynb
 - fig10b.ipynb
 - fig11.ipynb
-
+	- In:
+		* /Users/laura/Documents/scripts/IMEDEA/data/new_cutoffs/DEF/lonnb_p015_nofilt
+		* latnb_p168_nofilt
+		* SSH_modelnb_p168_nofilt
+		* SSH_obsnb_p168_nofilt
+		* vel_abs_m_p168_nofilt
+		* vel_abs_o_p168_nofilt
+		* rb_m_p168_nofilt
+		* rb_o_p168_nofilt
+			* Obtained from: 2017-11-10_new_velvort_calcs_SWOT_p015_nofilt.py
+	- Out: 
+		* 
+	- State: To improve:
+		* 
 
 - 2017-11-06_new_vort_calcs_WMOP.py
 	- In:
