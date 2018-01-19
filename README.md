@@ -3,7 +3,7 @@
 Codes used for my paper on my MSc results.
 
 - fig_01.ipynb
-        - In:
+    - In:
             * /Users/laura/Documents/data/ephem_calval_june2015_sph.txt 
                 * Obtained from: http://www.aviso.altimetry.fr/en/missions/future-missions/swot/orbit.html
             * /Users/laura/src/git/swotsimulator/swotoutput/FASTtest02/MEDtest_swotFAST_c01*.nc
