@@ -35,12 +35,12 @@ Codes used for my paper on my MSc results.
         - N
 
 - fig_05.ipynb 
-        - In:
-            * /Users/laura/Documents/scripts/IMEDEA/data/swot_MED_TRY_c02*.nc
-        - Out: 
-            * Figure 4
-        - State: To improve:
-            * North arrow
+    - In:
+        - /Users/laura/Documents/scripts/IMEDEA/data/swot_MED_TRY_c02*.nc
+    - Out: 
+        - Figure 4
+    - State: To improve:
+        - North arrow
             
 - fig_06_09_11_13.ipynb
     - In:
