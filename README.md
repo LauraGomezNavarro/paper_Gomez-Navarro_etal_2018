@@ -5,7 +5,7 @@ Codes used for my paper on my MSc results.
 - fig_01.ipynb
     - In:
         - /Users/laura/Documents/data/ephem_calval_june2015_sph.txt.  Obtained from: http://www.aviso.altimetry.fr/en/missions/future-missions/swot/orbit.html
-        - /Users/laura/src/git/swotsimulator/swotoutput/FASTtest02/MEDtest_swotFAST_c01*.nc.  Obtained from: simulations PhD —> Angel
+        - /Users/laura/src/git/swotsimulator/swotoutput/FASTtest02/MEDtest_swotFAST_c01*.nc.  Obtained from: simulations PhD
     - Out:
         - Figure 1
     - State: To improve:
@@ -13,25 +13,26 @@ Codes used for my paper on my MSc results.
         - show inset lines
         - show coordinates
         - show nadir on right plot
-        - swath data from kml instead of simus of PhD
+        - swath data from kml instead of simus of PhD (Angel)
+
 - (figure 2 is a flowchart)
+
 - fig_03.ipynb
-        - In:
-            * /Users/laura/Documents/scripts/IMEDEA/data/WMOP/roms_WMOP_HINDCAST_simplified_avg_20090123.nc
-            * /Users/laura/Documents/scripts/IMEDEA/data/new_cutoffs/DEF/rb_1_ma and rb_2_ma
-                * Obtained from: 2017-11-06_new_vort_calcs_WMOP.py
-        - Out: 
-            * Figure 3
-        - State: To improve:
-            * north arrow
+    - In:
+        - /Users/laura/Documents/scripts/IMEDEA/data/WMOP/roms_WMOP_HINDCAST_simplified_avg_20090123.nc
+        - /Users/laura/Documents/scripts/IMEDEA/data/new_cutoffs/DEF/rb_1_ma and rb_2_ma.  Obtained from: 2017-11-06_new_vort_calcs_WMOP.py
+    - Out: 
+        - Figure 3
+    - State: To improve:
+        - north arrow
 
 - fig_04.ipynb
-        - In:
-            * .nc
-        - Out: 
-            * Figu
-        - State: To improve:
-            * N
+    - In:
+        - .nc
+    - Out: 
+        - Figu
+    - State: To improve:
+        - N
 
 - fig_05.ipynb 
         - In:
@@ -40,58 +41,109 @@ Codes used for my paper on my MSc results.
             * Figure 4
         - State: To improve:
             * North arrow
+            
 - fig_06_09_11_13.ipynb
+    - In:
+        - .nc
+    - Out: 
+        - Figu
+    - State: To improve:
+        - N
+        
 - fig_07_10_12_14.ipynb
+    - In:
+        - .nc
+    - Out: 
+        - Figu
+    - State: To improve:
+        - N
+        
 - fig_08.ipynb
+    - In:
+        - .nc
+    - Out: 
+        - Figu
+    - State: To improve:
+        - N
+        
 - fig_08.html
+    - In:
+        - .nc
+    - Out: 
+        - Figu
+    - State: To improve:
+        - N
+        
 - fig_15_16.ipynb
+    - In:
+        - .nc
+    - Out: 
+        - Figu
+    - State: To improve:
+        - N
+        
 - fig_15.html
+    - In:
+        - .nc
+    - Out: 
+        - Figu
+    - State: To improve:
+        - N
+        
 - fig_16.html
+    - In:
+        - .nc
+    - Out: 
+        - Figu
+    - State: To improve:
+        - N
+        
 - fig_17.ipynb
-        - In:
-            * /Users/laura/Documents/scripts/IMEDEA/data/new_cutoffs/DEF/lonnb_p015_nofilt
-            * latnb_p168_nofilt
-            * SSH_modelnb_p168_nofilt
-            * SSH_obsnb_p168_nofilt
-            * vel_abs_m_p168_nofilt
-            * vel_abs_o_p168_nofilt
-            * rb_m_p168_nofilt
-            * rb_o_p168_nofilt
-                * Obtained from: 2017-11-10_new_velvort_calcs_SWOT_p015_nofilt.py
-        - Out: 
-            * 
-        - State: To improve:
-            * 
+    - In:
+        - Users/laura/Documents/scripts/IMEDEA/data/new_cutoffs/DEF/lonnb_p015_nofilt
+        - latnb_p168_nofilt
+        - SSH_modelnb_p168_nofilt
+        - SSH_obsnb_p168_nofilt
+        - vel_abs_m_p168_nofilt
+        - vel_abs_o_p168_nofilt
+        - rb_m_p168_nofilt
+        - rb_o_p168_nofilt.  Obtained from: 2017-11-10_new_velvort_calcs_SWOT_p015_nofilt.py
+    - Out: 
+        - Figu
+    - State: To improve:
+        - N
 
 - 2017-11-06_new_vort_calcs_WMOP.py
-        - In:
-            * /
-                * Obtained from: 
-        - Out: 
-            * 
-        - State: To improve:
-            * 
+    - In:
+        - .nc. Obtained from:
+    - Out: 
+        - Figu
+    - State: To improve:
+        - N
 
 Appendix figures:
 
 - fig_A1.ipynb
-        - In:
-            * .nc
-        - Out: 
-            * Figure 4
-        - State: To improve:
-            * North arrow
+    - In:
+        - .nc. Obtained from:
+    - Out: 
+        - Figu
+    - State: To improve:
+        - N
+        
 - fig_A2.ipynb
-        - In:
-            * .nc
-        - Out: 
-            * Figure A2
-        - State: To improve:
-            * N
+    - In:
+        - .nc. Obtained from:
+    - Out: 
+        - Figu
+    - State: To improve:
+        - N
+        
 - fig_B.ipynb
-        - In:
-            * .nc
-        - Out: 
-            * Figures B1-B4 
-        - State: To improve:
-            * N
+    - In:
+        - .nc. Obtained from:
+    - Out: 
+        - Figu
+    - State: To improve:
+        - N
+        
