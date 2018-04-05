@@ -76,7 +76,7 @@ Codes used for my paper on my MSc results.
         
 - fig_15_16.ipynb
     - In: directory = /Users/laura/Documents/scripts/IMEDEA/paperASR/spectra/
-        - filter_box1_error.mat
+        - filter_box1_error.mat, (filter_box1_error_v2.mat: spectra_diff_filters_t_v3_plots.m)
         - filter_box2_error.mat
     - Out: 
         - Figu
