@@ -67,7 +67,7 @@ Codes used for my paper on my MSc results.
         - N
         
 - fig_08.html
-    - In:
+    - In: 
         - .nc
     - Out: 
         - Figu
@@ -75,8 +75,9 @@ Codes used for my paper on my MSc results.
         - N
         
 - fig_15_16.ipynb
-    - In:
-        - .nc
+    - In: directory = /Users/laura/Documents/scripts/IMEDEA/paperASR/spectra/
+        - filter_box1_error.mat
+        - filter_box2_error.mat
     - Out: 
         - Figu
     - State: To improve:
