@@ -1,4 +1,7 @@
-# paper_MSc
+# Work in progress!!!  
+### All files and scripts will be ready soon!
+
+# paper_Gomez-Navarro et al.
 
 Codes used for the paper: .  (Based on my MSc results)
 
