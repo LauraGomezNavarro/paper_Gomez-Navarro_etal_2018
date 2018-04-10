@@ -1,6 +1,45 @@
 # paper_MSc
 
-Codes used for my paper on my MSc results.
+Codes used for the paper: .  (Based on my MSc results)
+
+Calculations:
+
+- 
+    - In:
+        - /Users/laura/Documents/data/ephem_calval_june2015_sph.txt.  Obtained from: http://www.aviso.altimetry.fr/en/missions/future-missions/swot/orbit.html
+    - Out:
+        - Figure 1
+    - State: To improve:
+        - map scale on left plot
+  
+- spectra_diff_filters_t_box2_v3.m
+    - In:
+        - .mat.  Obtained from: 
+    - Out:
+        - spectra info. 30, 60, 100, 200 
+    - State: To improve:
+        - 
+- spectra_diff_filters_t_v4.m
+    - In:
+        - .mat.  Obtained from: 
+    - Out:
+        - spectra info. 15, 40 ,50
+    - State: To improve:
+        - 
+
+-spectra_diff_filters_t_v4_plots.m
+    - In:
+        - .mat.  Obtained from: 
+    - Out:
+        - errorbar info. 15, 40 ,50
+    - State: To improve:
+        - 
+
+	
+
+
+
+Figures:
 
 - fig_01.ipynb
     - In:
