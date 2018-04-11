@@ -47,66 +47,177 @@ Figures:
     - State: To improve:
         - North arrow
             
-- fig_06_09_11_13.ipynb
-    - In:
-        - .nc
+- fig_07_07_09_11.ipynb
+    - In: (directory /Users/laura/Documents/scripts/IMEDEA/data/)
+        - WMOP/roms_WMOP_HINDCAST_simplified_avg_20090123.nc
+	- new_cutoffs/DEF/vel_abs_1
+	- new_cutoffs/DEF/rb_1_ma
+	- new_cutoffs/DEF/lonnb_p015_nofilt
+	- new_cutoffs/DEF/latnb_p015_nofilt
+	- new_cutoffs/DEF/SSH_modelnb_p015_nofilt
+	- new_cutoffs/DEF/SSH_obsnb_p015_nofilt
+	- new_cutoffs/DEF/vel_abs_m_p015_nofilt
+	- new_cutoffs/DEF/vel_abs_o_p015_nofilt
+	- new_cutoffs/DEF/rb_m_p015_nofilt
+	- new_cutoffs/DEF/rb_o_p015_nofilt
+	- new_cutoffs/DEF/lon_p015_velvort_filt
+	- new_cutoffs/DEF/lat_p015_velvort_filt
+	- new_cutoffs/DEF/filt_ssh_16_72_v1_new_DEF1.mat
+	- new_cutoffs/DEF/filt_ssh_30_v1_new_DEF1.mat
+	- new_cutoffs/DEF/filt_ssh_41_38_v1_new_DEF1.mat
+	- new_cutoffs/DEF/filt_ssh_50_58_v1_new_DEF1.mat
+	- new_cutoffs/DEF/filt_ssh_60_v1_new_DEF1.mat
+	- new_cutoffs/DEF/filt_ssh_100_v1_new_DEF1.mat
+	- new_cutoffs/DEF/filt_ssh_195_49_v1_new_DEF1.mat
+	- 3739box_DEF.mat
+	- new_cutoffs/DEF/vel_abs_m_p015_LD16
+	- new_cutoffs/DEF/vel_abs_o_p015_LD16
+	- new_cutoffs/DEF/vel_abs_r_p015_LD16
+	- new_cutoffs/DEF/rb_m_p015_LD16
+	- new_cutoffs/DEF/rb_o_p015_LD16
+	- new_cutoffs/DEF/rb_r_ma_p015_LD16
+	- new_cutoffs/DEF/vel_abs_m_p015_LD30
+	- new_cutoffs/DEF/vel_abs_o_p015_LD30'
+	- new_cutoffs/DEF/vel_abs_r_p015_LD30'
+	- new_cutoffs/DEF/rb_m_p015_LD30
+	- new_cutoffs/DEF/rb_o_p015_LD30
+	- new_cutoffs/DEF/rb_r_ma_p015_LD30
+	- new_cutoffs/DEF/vel_abs_m_p015_LD40
+	- new_cutoffs/DEF/vel_abs_o_p015_LD40
+	- new_cutoffs/DEF/vel_abs_r_p015_LD40
+	- new_cutoffs/DEF/rb_m_p015_LD40
+	- new_cutoffs/DEF/rb_o_p015_LD40
+	- new_cutoffs/DEF/rb_r_ma_p015_LD40
+	- new_cutoffs/DEF/vel_abs_m_p015_LD50
+	- new_cutoffs/DEF/vel_abs_o_p015_LD50
+	- new_cutoffs/DEF/vel_abs_r_p015_LD50
+	- new_cutoffs/DEF/rb_m_p015_LD50
+	- new_cutoffs/DEF/rb_o_p015_LD50
+	- new_cutoffs/DEF/rb_r_ma_p015_LD50
+	- new_cutoffs/DEF/vel_abs_m_p015_LD60
+	- new_cutoffs/DEF/vel_abs_o_p015_LD60
+	- new_cutoffs/DEF/vel_abs_r_p015_LD60
+	- new_cutoffs/DEF/rb_m_p015_LD60
+	- new_cutoffs/DEF/rb_o_p015_LD60
+	- new_cutoffs/DEF/rb_r_ma_p015_LD60
+	- new_cutoffs/DEF/vel_abs_m_p015_LD100
+	- new_cutoffs/DEF/vel_abs_o_p015_LD100
+	- new_cutoffs/DEF/vel_abs_r_p015_LD100
+	- new_cutoffs/DEF/rb_m_p015_LD100
+	- new_cutoffs/DEF/rb_o_p015_LD100
+	- new_cutoffs/DEF/rb_r_ma_p015_LD100
+	- new_cutoffs/DEF/vel_abs_m_p015_LD200
+	- new_cutoffs/DEF/vel_abs_o_p015_LD200
+	- new_cutoffs/DEF/vel_abs_r_p015_LD200
+	- new_cutoffs/DEF/rb_m_p015_LD200
+	- new_cutoffs/DEF/rb_o_p015_LD200
+	- new_cutoffs/DEF/rb_r_ma_p015_LD200
+
     - Out: 
         - Figu
     - State: To improve:
         - N
         
-- fig_07_10_12_14.ipynb
-    - In:
-        - .nc
+- fig_05_08_10_12.ipynb
+    - In: (directory: /Users/laura/Documents/scripts/IMEDEA/data/)
+        - WMOP/roms_WMOP_HINDCAST_simplified_avg_20090203.nc
+	- new_cutoffs/DEF/vel_abs_2
+	- new_cutoffs/DEF/rb_2_ma
+	- new_cutoffs/DEF/lonnb_p168_nofilt
+	- new_cutoffs/DEF/latnb_p168_nofilt
+	- new_cutoffs/DEF/SSH_modelnb_p168_nofilt
+	- new_cutoffs/DEF/SSH_obsnb_p168_nofilt
+	- new_cutoffs/DEF/vel_abs_m_p168_nofilt
+	- new_cutoffs/DEF/vel_abs_o_p168_nofilt
+	- new_cutoffs/DEF/rb_m_p168_nofilt
+	- new_cutoffs/DEF/rb_o_p168_nofilt
+	- new_cutoffs/DEF/lon_p168_velvort_filt
+	- new_cutoffs/DEF/lat_p168_velvort_filt
+	- new_cutoffs/DEF/filt_ssh_16_72_v1_p168_new_DEF1.mat
+	- new_cutoffs/DEF/filt_ssh_30_v1_p168_new_DEF1.mat
+	- new_cutoffs/DEF/filt_ssh_41_38_v1_p168_new_DEF1.mat
+	- new_cutoffs/DEF/filt_ssh_50_58_v1_p168_new_DEF1.mat
+	- new_cutoffs/DEF/filt_ssh_60_v1_p168_new_DEF1.mat
+	- new_cutoffs/DEF/filt_ssh_100_v1_p168_new_DEF1.mat
+	- new_cutoffs/DEF/filt_ssh_195_49_v1_p168_new_DEF1.mat
+	- 378398box_DEF.mat
+	- new_cutoffs/DEF/vel_abs_m_p168_LD16
+	- new_cutoffs/DEF/vel_abs_o_p168_LD16
+	- new_cutoffs/DEF/vel_abs_r_p168_LD16
+	- new_cutoffs/DEF/rb_m_p168_LD16
+	- new_cutoffs/DEF/rb_o_p168_LD16
+	- new_cutoffs/DEF/rb_r_ma_p168_LD16
+	- new_cutoffs/DEF/vel_abs_m_p168_LD30
+	- new_cutoffs/DEF/vel_abs_o_p168_LD30'
+	- new_cutoffs/DEF/vel_abs_r_p168_LD30'
+	- new_cutoffs/DEF/rb_m_p168_LD30
+	- new_cutoffs/DEF/rb_o_p168_LD30
+	- new_cutoffs/DEF/rb_r_ma_p168_LD30
+	- new_cutoffs/DEF/vel_abs_m_p168_LD40
+	- new_cutoffs/DEF/vel_abs_o_p168_LD40
+	- new_cutoffs/DEF/vel_abs_r_p168_LD40
+	- new_cutoffs/DEF/rb_m_p168_LD40
+	- new_cutoffs/DEF/rb_o_p168_LD40
+	- new_cutoffs/DEF/rb_r_ma_p168_LD40
+	- new_cutoffs/DEF/vel_abs_m_p168_LD50
+	- new_cutoffs/DEF/vel_abs_o_p168_LD50
+	- new_cutoffs/DEF/vel_abs_r_p168_LD50
+	- new_cutoffs/DEF/rb_m_p168_LD50
+	- new_cutoffs/DEF/rb_o_p168_LD50
+	- new_cutoffs/DEF/rb_r_ma_p168_LD50
+	- new_cutoffs/DEF/vel_abs_m_p168_LD60
+	- new_cutoffs/DEF/vel_abs_o_p168_LD60
+	- new_cutoffs/DEF/vel_abs_r_p168_LD60
+	- new_cutoffs/DEF/rb_m_p168_LD60
+	- new_cutoffs/DEF/rb_o_p168_LD60
+	- new_cutoffs/DEF/rb_r_ma_p168_LD60
+	- new_cutoffs/DEF/vel_abs_m_p168_LD100
+	- new_cutoffs/DEF/vel_abs_o_p168_LD100
+	- new_cutoffs/DEF/vel_abs_r_p168_LD100
+	- new_cutoffs/DEF/rb_m_p168_LD100
+	- new_cutoffs/DEF/rb_o_p168_LD100
+	- new_cutoffs/DEF/rb_r_ma_p168_LD100
+	- new_cutoffs/DEF/vel_abs_m_p168_LD200
+	- new_cutoffs/DEF/vel_abs_o_p168_LD200
+	- new_cutoffs/DEF/vel_abs_r_p168_LD200
+	- new_cutoffs/DEF/rb_m_p168_LD200
+	- new_cutoffs/DEF/rb_o_p168_LD200
+	- new_cutoffs/DEF/rb_r_ma_p168_LD200
+
     - Out: 
         - Figu
     - State: To improve:
         - N
         
-- fig_08.ipynb
-    - In:
-        - .nc
+- fig_06.ipynb
+    - In: (directory: /Users/laura/Documents/scripts/IMEDEA/paperASR/spectra/)
+        - filter_box1_error.mat
+	- filter_box2_error.mat
     - Out: 
         - Figu
     - State: To improve:
         - N
-        
-- fig_08.html
-    - In: 
-        - .nc
-    - Out: 
-        - Figu
-    - State: To improve:
-        - N
-        
-- fig_15_16.ipynb
+           
+- fig_13_14.ipynb
     - In: directory = /Users/laura/Documents/scripts/IMEDEA/paperASR/spectra/
         spectra_paper_final.m :
         - filter_box1_error.mat
         - filter_box2_error.mat
        (filter_box1_error_v2.mat: spectra_diff_filters_t_v3_plots.m)
+       
+       
+       new
+       filter_box1.mat
+       filter_box1_error_v2.mat
+       
+       filter_box2.mat
+       filter_box2_error_v2.mat
     - Out: 
         - Figu
     - State: To improve:
         - N
         
-- fig_15.html
-    - In:
-        - .nc
-    - Out: 
-        - Figu
-    - State: To improve:
-        - N
-        
-- fig_16.html
-    - In:
-        - .nc
-    - Out: 
-        - Figu
-    - State: To improve:
-        - N
-        
-- fig_17.ipynb
+- fig_15.ipynb
     - In:
         - Users/laura/Documents/scripts/IMEDEA/data/new_cutoffs/DEF/lonnb_p015_nofilt
         - latnb_p168_nofilt
@@ -116,14 +227,6 @@ Figures:
         - vel_abs_o_p168_nofilt
         - rb_m_p168_nofilt
         - rb_o_p168_nofilt.  Obtained from: 2017-11-10_new_velvort_calcs_SWOT_p015_nofilt.py
-    - Out: 
-        - Figu
-    - State: To improve:
-        - N
-
-- 2017-11-06_new_vort_calcs_WMOP.py
-    - In:
-        - .nc. Obtained from:
     - Out: 
         - Figu
     - State: To improve:
@@ -154,6 +257,12 @@ Appendix figures:
         - Figu
     - State: To improve:
         - N
+# Interactive figures:
+
+- fig_06.html
+- fig_13.html
+- fig_14.html
+
 # Calculations:
 
 ## Python codes:
