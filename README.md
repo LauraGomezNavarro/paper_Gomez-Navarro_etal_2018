@@ -47,7 +47,7 @@ grid (![equation](http://latex.codecogs.com/gif.latex?SSH$_{model}$)), and with 
 		* [10](figures/jpeg/vel_p168_zoom_cutoff_DEF.jpeg): Absolute geostrophic velocity (m/s) on 3 February 2009 corresponding to pass 168 of cycle 2.
 		* [12](figures/jpeg/vort_p168_zoom_cutoff_DEF.jpeg): Relative vorticity normalized by f on 3 February 2009 corresponding to pass 168 of cycle 2.
 		        
-* fig_06.ipynb
+* fig_06_v2.ipynb
  
  	* In: 
 		* filter_box1_error.mat
@@ -57,7 +57,7 @@ grid (![equation](http://latex.codecogs.com/gif.latex?SSH$_{model}$)), and with 
 	[Figure 06](figures/jpeg/spectra_nofilt_v2.jpeg): (Top) Spectra of the data before filtering, from cycle 1 to 122, corresponding to box 1 (pass 15), (left), and to box 2 (pass 168), (right). Error bars denote 95% confidence intervals. (Bottom) Corresponding Signal to Noise Ratio (SNR), with a horizontal black line indicating where the noise is
 more than 15% of the signal, and the vertical line the corresponding wavelength.
            
-* fig_13_14.ipynb
+* fig_13_14_v2.ipynb
     	
 	* In: 
 		* filter_box1.mat
@@ -106,12 +106,6 @@ Appendix figures:
 		* [B2](figures/jpeg/NOISE_inst_some_swot_MED_TRY_c30.jpeg): The different instrument noise types (m) for passes 15 pass 168 over cycle 30 are shown.
 		* [B3](figures/jpeg/NOISE_geo_some_swot_MED_TRY_c02.jpeg): The different geophysical errors (m) for passes 15 and 168 over cycle 2 are shown.
 		* [B4](figures/jpeg/NOISE_geo_some_swot_MED_TRY_c30.jpeg): The different geophysical errors (m) for passes 15 and 168 over cycle 30 are shown.
-		
-# Interactive figures:
-
-- fig_06.html
-- fig_13.html
-- fig_14.html
 
 # Calculations:
 
