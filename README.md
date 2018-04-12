@@ -60,7 +60,7 @@ more than 15% of the signal, and the vertical line the corresponding wavelength.
 * fig_13_14.ipynb
     	
 	* In: 
-        	* filter_box1.mat
+		* filter_box1.mat
 		* filter_box1_error_v2.mat
 		* filter_box2.mat
 		* filter_box2_error_v2.mat
@@ -80,7 +80,7 @@ Appendix figures:
 * fig_A1.ipynb
     	
 	* In:
-        	* wnoises_loop_try2_cut.mat
+		* wnoises_loop_try2_cut.mat
 		* wnoises_loop_try2.mat
     	
 	* Out: <br>
@@ -89,7 +89,7 @@ Appendix figures:
 * fig_A2.ipynb
 
 	* In:
-        	* wnoises_loop_try2_cut.mat
+		* wnoises_loop_try2_cut.mat
 		* wnoises_loop_try2.mat
 		
 	* Out: <br>
@@ -98,7 +98,7 @@ Appendix figures:
 * fig_B.ipynb
     
 	* In:
-        	* swot_MED_TRY_c02*.nc
+		* swot_MED_TRY_c02*.nc
 		* swot_MED_TRY_c30*.nc
     
 	* Out: Figures
