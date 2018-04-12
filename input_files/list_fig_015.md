@@ -1,6 +1,4 @@
-directory: /Users/laura/Documents/scripts/IMEDEA/data/
-
-	- new_cutoffs/DEF/lonnb_p015_nofilt
+* new_cutoffs/DEF/lonnb_p015_nofilt
 	- new_cutoffs/DEF/latnb_p015_nofilt
 	- new_cutoffs/DEF/SSH_modelnb_p015_nofilt
 	- new_cutoffs/DEF/SSH_obsnb_p015_nofilt
