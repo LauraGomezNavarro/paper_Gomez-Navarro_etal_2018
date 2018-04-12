@@ -4,27 +4,28 @@ Codes used for the paper: Gómez-Navarro, L.; Fablet, R.; Mason, E.; Pascual, A.
 
 Figures:
 
-- (figure 1 is a flowchart)
+* (figure 1 is a flowchart)
 
-- fig_02.ipynb
-    - In:
-        - roms_WMOP_HINDCAST_simplified_avg_20090123.nc
-        - rb_1_ma and rb_2_ma.  Obtained from: 2017-11-06_new_vort_calcs_WMOP.py
-    - Out: 
-        - Figure 2
+* fig_02.ipynb
+	
+	* In:
+        	* roms_WMOP_HINDCAST_simplified_avg_20090123.nc
+        	* rb_1_ma and rb_2_ma.  Obtained from: 2017-11-06_new_vort_calcs_WMOP.py
+		
+        * Out: Figure 2
 
 * fig_03.ipynb 
+	
 	* In:
         	* swot_MED_TRY_c02*.nc
 		* 3739box.mat
 		* 378398box.mat
-    * Out: 
-        * Figure 3
+		
+    * Out: Figure 3
             
 * fig_04_07_09_11.ipynb
 
 	* In: [List of input files](input_files/list_fig_04_07_09_11.md)
-		* sAC
 		
 	* Out: Figures
 		* 4
@@ -32,65 +33,66 @@ Figures:
 		* 9
 		* 11
 
-- fig_05_08_10_12.ipynb
-    - In:  [List of input files](/input_files/list_fig_05_08_10_12.md)
+* fig_05_08_10_12.ipynb
+	
+	* In:  [List of input files](/input_files/list_fig_05_08_10_12.md)
 
-    - Out: 
-        - Figures:
-		- 5
-		- 8
-		- 10
-		- 12
+    	* Out: Figures
+		* 5
+		* 8
+		* 10
+		* 12
         
-- fig_06.ipynb
-    - In: 
-        - filter_box1_error.mat
-	- filter_box2_error.mat
+* fig_06.ipynb
+ 
+ 	* In: 
+        	* filter_box1_error.mat
+		* filter_box2_error.mat
 	
-    - Out: 
-        - Figure 6
+    	* Out: Figure 6
            
-- fig_13_14.ipynb
-    - In: 
-        - filter_box1.mat
-	- filter_box1_error_v2.mat
-	- filter_box2.mat
-	- filter_box2_error_v2.mat
+* fig_13_14.ipynb
+    	
+	* In: 
+        	* filter_box1.mat
+		* filter_box1_error_v2.mat
+		* filter_box2.mat
+		* filter_box2_error_v2.mat
 	
-    - Out: 
-        - Figures:
-		- 13
-		- 14
+    	* Out Figures:
+		* 13
+		* 14
         
-- fig_15.ipynb
-    - In:	
-	[List of input files](input_files/list_fig_015.md)
+* fig_15.ipynb
+    	
+	* In: [List of input files](input_files/list_fig_015.md)
 	
-    - Out: 
-        - Figure 15
+    	* Out: Figure 15
 	
 Appendix figures:
 
-- fig_A1.ipynb
-    - In:
+* fig_A1.ipynb
+    	
+	* In:
         - .nc. Obtained from:
-    - Out: 
-        - Figure A1
+    	
+	* Out: Figure A1
 	
 - fig_A2.ipynb
-    - In:
+
+	* In:
         - .nc. Obtained from:
-    - Out: 
-        - Figure A2
+    
+    	* Out: Figure A2
         
-- fig_B.ipynb
-    - In:
+* fig_B.ipynb
+    
+    	* In:
         - .nc. Obtained from:
-    - Out: 
-        - Figures:
-		- 
-    - State: To improve:
-        - N
+    
+    	* Out: Figures
+		* dsC
+		
 # Interactive figures:
 
 - fig_06.html
