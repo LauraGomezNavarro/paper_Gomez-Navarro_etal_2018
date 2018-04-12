@@ -13,21 +13,21 @@ Figures:
     - Out: 
         - Figure 2
 
-- fig_03.ipynb 
-	- In:
-        	- swot_MED_TRY_c02*.nc
-		- 3739box.mat
-		- 378398box.mat
-    - Out: 
-        - Figure 3
+* fig_03.ipynb 
+	* In:
+        	* swot_MED_TRY_c02*.nc
+		* 3739box.mat
+		* 378398box.mat
+    * Out: 
+        * Figure 3
             
 * fig_04_07_09_11.ipynb
 
 	* In: [List of input files](input_files/list_fig_04_07_09_11.md)
 	
-	- Out: 
-        	- Figures:
-			- 4
+	* Out: 
+        	* Figures:
+			* 4
 		- 7
 		- 9
 		- 11
