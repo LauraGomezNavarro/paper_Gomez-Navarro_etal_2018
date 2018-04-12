@@ -78,7 +78,7 @@ Appendix figures:
     	
 	* Out: Figure A1
 	
-- fig_A2.ipynb
+* fig_A2.ipynb
 
 	* In:
         - .nc. Obtained from:
@@ -88,7 +88,8 @@ Appendix figures:
 * fig_B.ipynb
     
     	* In:
-        - .nc. Obtained from:
+        	* swot_MED_TRY_c02*.nc
+		* swot_MED_TRY_c30*.nc
     
     	* Out: Figures
 		* dsC
