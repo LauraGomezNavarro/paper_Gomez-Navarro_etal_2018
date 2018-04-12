@@ -22,14 +22,12 @@ Figures:
         - Figure 3
             
 * fig_04_07_09_11.ipynb
-	* cx
-		* vac
-			- sbcx
 
-    - In: [List of input files](input_files/list_fig_04_07_09_11.md)
-    - Out: 
-        - Figures:
-		* 4
+	- In: [List of input files](input_files/list_fig_04_07_09_11.md)
+	
+	- Out: 
+        	- Figures:
+			-- 4
 		- 7
 		- 9
 		- 11
