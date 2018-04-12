@@ -80,7 +80,8 @@ Appendix figures:
 * fig_A1.ipynb
     	
 	* In:
-        - .nc. Obtained from:
+        	* wnoises_loop_try2_cut.mat
+		* wnoises_loop_try2.mat
     	
 	* Out: <br>
 	[Figure A1](figures/jpeg/A1.jpeg): Illustration of how the parameterization corresponding to a 15 (16.72) km cut-off wavelength (![equation](http://latex.codecogs.com/gif.latex?\lambda_c)) is estimated. The blue line represents the mean spectra of the 100 non-filtered white noise fields. The black line is the mean spectra of the 100 filtered white noise fields. The horizontal red line shows the half-power spectra of the blue line, and the vertical red line the corresponding wavelength value of the black line, and thus the cut-off wavelength.
