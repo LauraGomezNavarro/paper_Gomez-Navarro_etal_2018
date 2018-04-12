@@ -44,7 +44,7 @@ Figures:
 		* [05](figures/jpeg/3_vars_p168_DEF_redBlue.jpeg): From top to bottom: SSH (m), geostrophic velocity (m/s) and relative vorticity (![equation](http://latex.codecogs.com/gif.latex?\zeta)) normalized by f, on 3 February 2009 corresponding to pass 168 of cycle 2 (box 2). The first, middle and last columns show the data obtained directly from the model (WMOP), from the model interpolated onto the SWOT
 grid (![equation](http://latex.codecogs.com/gif.latex?SSH$_{model}$)), and with added noise (![equation](http://latex.codecogs.com/gif.latex?SSH$_{obs}$)), respectively.
 		* [08](figures/jpeg/adt_p168_zoom_cutoff_DEF.jpeg): SSH (m) on 3 February 2009 corresponding to pass 168 of cycle 2.
-		* [10](figures/jpeg/vel_p168_zoom_cutoff_DEF.jpeg): Absolute geostrophic velocity (m/s) on 3 February 2009 corresponding to pass hl168 of cycle 2.
+		* [10](figures/jpeg/vel_p168_zoom_cutoff_DEF.jpeg): Absolute geostrophic velocity (m/s) on 3 February 2009 corresponding to pass 168 of cycle 2.
 		* [12](figures/jpeg/vort_p168_zoom_cutoff_DEF.jpeg): Relative vorticity normalized by f on 3 February 2009 corresponding to pass 168 of cycle 2.
 		        
 * fig_06.ipynb
