@@ -48,6 +48,7 @@ Figures:
         - North arrow
             
 - fig_04_07_09_11.ipynb
+
     - In: (directory /Users/laura/Documents/scripts/IMEDEA/data/)
         - WMOP/roms_WMOP_HINDCAST_simplified_avg_20090123.nc
 	- new_cutoffs/DEF/vel_abs_1
