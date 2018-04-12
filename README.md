@@ -8,14 +8,11 @@ Figures:
 
 * fig_02.ipynb
 
-	* In:
+	* In:<br>
         	* roms_WMOP_HINDCAST_simplified_avg_20090123.nc
         	* rb_1_ma and rb_2_ma.  Obtained from: 2017-11-06_new_vort_calcs_WMOP.py
 		
 	* Out: 
-
-<br>
-
 [Figure 02](figures/jpeg/rel_vort_WMOP_evan_BOX_redBlue.jpeg): WMOP relative vorticity normalized by f on 23 January 2009 (left) and 3 February 2009 (right). Black boxes indicate the two regions studied in Section 3: box 1, pass 15 (left) and box 2, pass 168 (right).
 
 * fig_03.ipynb 
