@@ -18,15 +18,12 @@ Figures:
 * fig_03.ipynb 
 	
 	* In:
-        	* swot_MED_TRY_c02*.nc
+		* swot_MED_TRY_c02*.nc
 		* 3739box.mat
 		* 378398box.mat
 		
-    * Out: 
-
-<br>
-
-[Figure 03](figures/jpeg/daily_inputs_cycle2_gradual.jpeg): SSH$_obs$ (m) obtained for cycle 2. Time increasing from left to right, top to bottom. Days from the beginning of the simulation are shown at the top left corner and the corresponding pass number at the bottom right corner. Outline of the active pass is shown in black. The red boxes show box 1
+    * Out: <br>
+[Figure 03](figures/jpeg/daily_inputs_cycle2_gradual.jpeg): ![equation](http://latex.codecogs.com/gif.latex?SSH$_{obs}$) (m) obtained for cycle 2. Time increasing from left to right, top to bottom. Days from the beginning of the simulation are shown at the top left corner and the corresponding pass number at the bottom right corner. Outline of the active pass is shown in black. The red boxes show box 1
 (pass 15) and box 2 (pass 168).
             
 * fig_04_07_09_11.ipynb
@@ -34,7 +31,8 @@ Figures:
 	* In: [List of input files](input_files/list_fig_04_07_09_11.md)
 		
 	* Out: Figures
-		* [04](figures/jpeg/3_vars_p015_DEF_redBlue.jpeg):
+		* [04](figures/jpeg/3_vars_p015_DEF_redBlue.jpeg): From top to bottom: SSH (m), geostrophic velocity (m/s) and relative vorticity (z) normalized by f, on 23 January 2009 corresponding to pass 15 of cycle 2 (box 1). The first, middle and last columns show the data obtained directly from the model (WMOP), from the model interpolated onto the SWOT
+grid (SSHmodel ), and with added noise (SSHobs), respectively.
 		* [07](figures/jpeg/adt_p015_zoom_cutoff_DEF.jpeg):
 		* [09](figures/jpeg/vel_p015_zoom_cutoff_DEF.jpeg):
 		* [11](figures/jpeg/vort_p015_zoom_cutoff_DEF.jpeg):
@@ -55,7 +53,8 @@ Figures:
         	* filter_box1_error.mat
 		* filter_box2_error.mat
 	
-	* Out: [Figure 06](figures/jpeg/spectra_nofilt_v2.jpeg):
+	* Out: <br>
+	[Figure 06](figures/jpeg/spectra_nofilt_v2.jpeg):
            
 * fig_13_14.ipynb
     	
@@ -82,7 +81,8 @@ Appendix figures:
 	* In:
         - .nc. Obtained from:
     	
-	* Out: [Figure A1](figures/jpeg/A1.jpeg):
+	* Out: <br>
+	[Figure A1](figures/jpeg/A1.jpeg):
 	
 * fig_A2.ipynb
 
@@ -90,7 +90,8 @@ Appendix figures:
         	* wnoises_loop_try2_cut.mat
 		* wnoises_loop_try2.mat
 		
-	* Out: [Figure A2](figures/jpeg/A2.jpeg):
+	* Out: <br>
+	[Figure A2](figures/jpeg/A2.jpeg):
         
 * fig_B.ipynb
     
