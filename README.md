@@ -38,7 +38,7 @@ Figures:
 	* In:  [List of input files](/input_files/list_fig_05_08_10_12.md)
 
     	* Out: Figures
-		* 5
+		* [5](figures/jpeg/3_vars_p168_DEF_redBlue.jpeg)
 		* 8
 		* 10
 		* 12
