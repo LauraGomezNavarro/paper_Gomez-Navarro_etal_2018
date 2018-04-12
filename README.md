@@ -101,6 +101,9 @@ Figures:
         - vel_abs_o_p168_nofilt
         - rb_m_p168_nofilt
         - rb_o_p168_nofilt.  Obtained from: 2017-11-10_new_velvort_calcs_SWOT_p015_nofilt.py
+	new
+	
+	[List of input files](input_files/list_fig_015.md)
 	
     - Out: 
         - Figu
