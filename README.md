@@ -50,7 +50,7 @@ grid (![equation](http://latex.codecogs.com/gif.latex?SSH$_{model}$)), and with 
 * fig_06.ipynb
  
  	* In: 
-        	* filter_box1_error.mat
+		* filter_box1_error.mat
 		* filter_box2_error.mat
 	
 	* Out: <br>
