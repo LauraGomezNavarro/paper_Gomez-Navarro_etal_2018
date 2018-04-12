@@ -31,8 +31,7 @@ Figures:
 	* In: [List of input files](input_files/list_fig_04_07_09_11.md)
 		
 	* Out: Figures
-		* [04](figures/jpeg/3_vars_p015_DEF_redBlue.jpeg): From top to bottom: SSH (m), geostrophic velocity (m/s) and relative vorticity (z) normalized by f, on 23 January 2009 corresponding to pass 15 of cycle 2 (box 1). The first, middle and last columns show the data obtained directly from the model (WMOP), from the model interpolated onto the SWOT
-grid (SSHmodel ), and with added noise (SSHobs), respectively.
+		* [04](figures/jpeg/3_vars_p015_DEF_redBlue.jpeg): From top to bottom: SSH (m), geostrophic velocity (m/s) and relative vorticity (![equation](http://latex.codecogs.com/gif.latex?\zeta)) normalized by f, on 23 January 2009 corresponding to pass 15 of cycle 2 (box 1). The first, middle and last columns show the data obtained directly from the model (WMOP), from the model interpolated onto the SWOT grid (![equation](http://latex.codecogs.com/gif.latex?SSH$_{model}$)), and with added noise (![equation](http://latex.codecogs.com/gif.latex?SSH$_{obs}$)), respectively.
 		* [07](figures/jpeg/adt_p015_zoom_cutoff_DEF.jpeg):
 		* [09](figures/jpeg/vel_p015_zoom_cutoff_DEF.jpeg):
 		* [11](figures/jpeg/vort_p015_zoom_cutoff_DEF.jpeg):
