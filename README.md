@@ -26,12 +26,11 @@ Figures:
 	* In: [List of input files](input_files/list_fig_04_07_09_11.md)
 		* sAC
 		
-	* Out 
-        	* Figures
-			* 4
-			* 7
-			* 9
-			* 11
+	* Out: Figures
+		* 4
+		* 7
+		* 9
+		* 11
 
 - fig_05_08_10_12.ipynb
     - In:  [List of input files](/input_files/list_fig_05_08_10_12.md)
