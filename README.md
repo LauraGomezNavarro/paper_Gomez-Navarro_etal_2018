@@ -27,9 +27,7 @@ Figures:
 		* sAC
 		
 	* Out 
-	
         	* Figures
-		
 			* 4
 			* 7
 			* 9
