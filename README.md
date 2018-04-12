@@ -28,6 +28,7 @@ Figures:
         - /Users/laura/Documents/scripts/IMEDEA/data/new_cutoffs/DEF/rb_1_ma and rb_2_ma.  Obtained from: 2017-11-06_new_vort_calcs_WMOP.py
     - Out: 
         - Figure 2
+[Contribution guidelines](figures/fig_B.ipynb)
 
 - fig_old_04.ipynb
     - In:
