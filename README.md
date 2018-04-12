@@ -24,9 +24,9 @@ Figures:
 * fig_04_07_09_11.ipynb
 
 	* In: [List of input files](input_files/list_fig_04_07_09_11.md)
-	
-	* Out: 
-        	* Figures:b ,
+		* sAC
+	* Out 
+        	* Figures
 			* 4
 		- 7
 		- 9
