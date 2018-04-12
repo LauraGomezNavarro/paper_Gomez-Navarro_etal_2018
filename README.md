@@ -7,12 +7,16 @@ Figures:
 * ([Figure 1](figures/jpeg/flowchart_nofill_paper.jpeg): Flowchart of the SWOT simulator procedure.)
 
 * fig_02.ipynb
-	
+
 	* In:
         	* roms_WMOP_HINDCAST_simplified_avg_20090123.nc
         	* rb_1_ma and rb_2_ma.  Obtained from: 2017-11-06_new_vort_calcs_WMOP.py
 		
-	* Out: [Figure 02](figures/jpeg/rel_vort_WMOP_evan_BOX_redBlue.jpeg): WMOP relative vorticity normalized by f on 23 January 2009 (left) and 3 February 2009 (right). Black boxes indicate the two regions studied in Section 3: box 1, pass 15 (left) and box 2, pass 168 (right).
+	* Out: 
+
+<br>
+
+[Figure 02](figures/jpeg/rel_vort_WMOP_evan_BOX_redBlue.jpeg): WMOP relative vorticity normalized by f on 23 January 2009 (left) and 3 February 2009 (right). Black boxes indicate the two regions studied in Section 3: box 1, pass 15 (left) and box 2, pass 168 (right).
 
 * fig_03.ipynb 
 	
@@ -21,7 +25,12 @@ Figures:
 		* 3739box.mat
 		* 378398box.mat
 		
-    * Out: [Figure 03](figures/jpeg/daily_inputs_cycle2_gradual.jpeg): 
+    * Out: 
+
+<br>
+
+[Figure 03](figures/jpeg/daily_inputs_cycle2_gradual.jpeg): SSH$_obs$ (m) obtained for cycle 2. Time increasing from left to right, top to bottom. Days from the beginning of the simulation are shown at the top left corner and the corresponding pass number at the bottom right corner. Outline of the active pass is shown in black. The red boxes show box 1
+(pass 15) and box 2 (pass 168).
             
 * fig_04_07_09_11.ipynb
 
