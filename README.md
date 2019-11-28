@@ -6,7 +6,7 @@ Figures:
 
 * ([Figure 1](figures/jpeg/flowchart_nofill_paper.jpeg): Flowchart of the SWOT simulator procedure.)
 
-* fig_02.ipynb
+* [fig_02.ipynb](figures/fig_02.ipynb)
 
 	* In:<br>
 		* roms_WMOP_HINDCAST_simplified_avg_20090123.nc
