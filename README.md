@@ -15,7 +15,7 @@ Figures:
 	* Out: <br>
 [Figure 02](figures/jpeg/rel_vort_WMOP_evan_BOX_redBlue.jpeg): WMOP relative vorticity normalized by f on 23 January 2009 (left) and 3 February 2009 (right). Black boxes indicate the two regions studied in Section 3: box 1, pass 15 (left) and box 2, pass 168 (right).
 
-* fig_03.ipynb 
+* [fig_03.ipynb](figures/fig_03.ipynb)
 	
 	* In:
 		* swot_MED_TRY_c02*.nc
@@ -26,7 +26,7 @@ Figures:
 [Figure 03](figures/jpeg/daily_inputs_cycle2_gradual.jpeg): ![equation](http://latex.codecogs.com/gif.latex?SSH$_{obs}$) (m) obtained for cycle 2. Time increasing from left to right, top to bottom. Days from the beginning of the simulation are shown at the top left corner and the corresponding pass number at the bottom right corner. Outline of the active pass is shown in black. The red boxes show box 1
 (pass 15) and box 2 (pass 168).
             
-* fig_04_07_09_11.ipynb
+* [fig_04_07_09_11.ipynb](figures/fig_04_07_09_11.ipynb)
 
 	* In: [List of input files](input_files/list_fig_04_07_09_11.md)
 		
@@ -36,7 +36,7 @@ Figures:
 		* [09](figures/jpeg/vel_p015_zoom_cutoff_DEF.jpeg): Absolute geostrophic velocity (m/s) on 23 January 2009 corresponding to pass 15 of cycle 2.
 		* [11](figures/jpeg/vort_p015_zoom_cutoff_DEF.jpeg): Relative vorticity normalized by f on 23 January 2009 corresponding to pass 15 of cycle 2.
 
-* fig_05_08_10_12.ipynb
+* [fig_05_08_10_12.ipynb](figures/fig_05_08_10_12.ipynb)
 	
 	* In:  [List of input files](/input_files/list_fig_05_08_10_12.md)
 		
@@ -47,7 +47,7 @@ grid (![equation](http://latex.codecogs.com/gif.latex?SSH$_{model}$)), and with 
 		* [10](figures/jpeg/vel_p168_zoom_cutoff_DEF.jpeg): Absolute geostrophic velocity (m/s) on 3 February 2009 corresponding to pass 168 of cycle 2.
 		* [12](figures/jpeg/vort_p168_zoom_cutoff_DEF.jpeg): Relative vorticity normalized by f on 3 February 2009 corresponding to pass 168 of cycle 2.
 		        
-* fig_06_v2.ipynb
+* [fig_06_v2.ipynb](figures/fig_06_v2.ipynb)
  
  	* In: 
 		* filter_box1_error.mat
@@ -57,7 +57,7 @@ grid (![equation](http://latex.codecogs.com/gif.latex?SSH$_{model}$)), and with 
 	[Figure 06](figures/jpeg/spectra_nofilt_v2.jpeg): (Top) Spectra of the data before filtering, from cycle 1 to 122, corresponding to box 1 (pass 15), (left), and to box 2 (pass 168), (right). Error bars denote 95% confidence intervals. (Bottom) Corresponding Signal to Noise Ratio (SNR), with a horizontal black line indicating where the noise is
 more than 15% of the signal, and the vertical line the corresponding wavelength.
            
-* fig_13_14_v2.ipynb
+* [fig_13_14_v2.ipynb](figures/fig_13_14_v2.ipynb)
     	
 	* In: 
 		* filter_box1.mat
@@ -69,7 +69,7 @@ more than 15% of the signal, and the vertical line the corresponding wavelength.
 		* [13](figures/jpeg/spectra_p015_v2.jpeg): Box 1 region (pass 15) mean of cycles 1 to 122. (Left) Spectra of (![equation](http://latex.codecogs.com/gif.latex?SSH$_{model}$)) (blue) and (![equation](http://latex.codecogs.com/gif.latex?SSH$_{obs}$)) (red) before filtering and after applying the different cut-off wavelengths shown in the different rows (30, 60 and 200 km) in purple and orange, respectively. Error bars denote 95% confidence intervals. (Right) SNR of (![equation](http://latex.codecogs.com/gif.latex?SSH$_{model}$)) and (![equation](http://latex.codecogs.com/gif.latex?SSH$_{obs}$)), both filtered (solid line) and of (![equation](http://latex.codecogs.com/gif.latex?SSH$_{model}$)) non-filtered and filtered (![equation](http://latex.codecogs.com/gif.latex?SSH$_{obs}$)) (dashed line).
 		* [14](figures/jpeg/spectra_p168_v2.jpeg): Box 2 region (pass 168) mean of cycles 1 to 122. (Left) Spectra of (![equation](http://latex.codecogs.com/gif.latex?SSH$_{model}$)) (blue) and (![equation](http://latex.codecogs.com/gif.latex?SSH$_{obs}$)) (red) before filtering and after applying the different cut-off wavelengths shown in the different rows (30, 60 and 200 km) in purple and orange, respectively. Error bars denote 95% confidence intervals.  (Right) SNR of (![equation](http://latex.codecogs.com/gif.latex?SSH$_{model}$)) and (![equation](http://latex.codecogs.com/gif.latex?SSH$_{obs}$)), both filtered (solid line) and of (![equation](http://latex.codecogs.com/gif.latex?SSH$_{model}$)) non-filtered and filtered (![equation](http://latex.codecogs.com/gif.latex?SSH$_{obs}$)) (dashed line).
         
-* fig_15.ipynb
+* [fig_15.ipynb](figures/fig_15.ipynb)
     	
 	* In: [List of input files](input_files/list_fig_015.md)
 	
@@ -77,7 +77,7 @@ more than 15% of the signal, and the vertical line the corresponding wavelength.
 	
 Appendix figures:
 
-* fig_A1.ipynb
+* [fig_A1.ipynb](figures/fig_A1.ipynb)
     	
 	* In:
 		* wnoises_loop_try2_cut.mat
@@ -86,7 +86,7 @@ Appendix figures:
 	* Out: <br>
 	[Figure A1](figures/jpeg/A1.jpeg): Illustration of how the parameterization corresponding to a 15 (16.72) km cut-off wavelength (![equation](http://latex.codecogs.com/gif.latex?\lambda_c)) is estimated. The blue line represents the mean spectra of the 100 non-filtered white noise fields. The black line is the mean spectra of the 100 filtered white noise fields. The horizontal red line shows the half-power spectra of the blue line, and the vertical red line the corresponding wavelength value of the black line, and thus the cut-off wavelength.
 	
-* fig_A2.ipynb
+* [fig_A2.ipynb](figures/fig_A2.ipynb)
 
 	* In:
 		* wnoises_loop_try2_cut.mat
@@ -95,7 +95,7 @@ Appendix figures:
 	* Out: <br>
 	[Figure A2](figures/jpeg/A2.jpeg): Laplacian diffusion cut-off wavelengths (km) for different combinations of the number of iterations and lambdas.
         
-* fig_B.ipynb
+* [fig_B.ipynb](figures/fig_B.ipynb)
     
 	* In:
 		* swot_MED_TRY_c02*.nc
