@@ -114,4 +114,6 @@ Appendix figures:
 
 ## Matlab codes:
 
+* Example of filtering SWOT simulator outputs: [LDfilter_pass_168_example.m](calculations/LDfilter_pass_168_example.m)
+	* Needs: [lap_diffusionMask.m](calculations/lap_diffusionMask.m)
 
