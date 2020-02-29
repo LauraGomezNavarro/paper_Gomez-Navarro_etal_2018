@@ -1,6 +1,6 @@
 ### All files and scripts will be ready soon!
 
-Codes used for the paper: Gómez-Navarro, L.; Fablet, R.; Mason, E.; Pascual, A.; Mourre, B.; Cosme, E.; Le Sommer, J. SWOT Spatial Scales in the Western Mediterranean Sea Derived from Pseudo-Observations and an Ad Hoc Filtering. _Remote Sens._ *2018*, _10_, 599.  
+Codes used for the paper: Gómez-Navarro, L.; Fablet, R.; Mason, E.; Pascual, A.; Mourre, B.; Cosme, E.; Le Sommer, J. SWOT Spatial Scales in the Western Mediterranean Sea Derived from Pseudo-Observations and an Ad Hoc Filtering. _Remote Sens._ **2018**, _10_, 599.  
 
 https://www.mdpi.com/2072-4292/10/4/599
 
